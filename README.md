@@ -52,7 +52,7 @@ int main()
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/79cbf03d-2bba-4af4-96cb-4e43785b7ad8)
 
-Program Output:
+## Program Output:
 ![image](https://github.com/user-attachments/assets/af623a7a-c340-443a-9594-5d4069702745)
 
 # Result
